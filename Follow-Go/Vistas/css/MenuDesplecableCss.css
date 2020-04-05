@@ -1,0 +1,11 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family: verdana;
+}
+body{
+	background-image: url(../img/konigssee-4790116_1920.jpg);
+	background-color: rgba(255, 0, 0, 0.342);
+}
+
+/*menu lateral*/

@@ -1,0 +1,15 @@
+body{
+    /*background: -webkit-gradient(linear, left bottom, left top, from(#fbc2eb), to(#a18cd1));
+    background: linear-gradient(to top, #6ed9ec  0%, beige 100%);*/
+
+    background-color: white;
+}
+.Texto_inicio{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    left: 110px;
+    top: 385px;
+    text-align: initial;
+
+
+}

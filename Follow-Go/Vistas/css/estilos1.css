@@ -1,0 +1,66 @@
+html, body{
+    height: 100%;
+}
+img{
+    max-width: 100%;
+}
+
+
+#menu{
+    background-image: linear-gradient(to right, #38158b, #7681e0, #2f5acf);
+}
+
+.navbar-brand{    
+    color: white;
+}
+#redes{
+    color: white;
+}
+
+#cover{
+   background:url("../img/Imagen_Follow_1.jpg") center center no-repeat;
+    background-size: cover;
+    color: rgb(24, 21, 21);
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.Principal_1{
+    text-align: center;
+    color: wheat;
+}
+
+#cover-texto{
+    width: 100%;
+    padding: 5rem 0;
+}
+
+#cover-texto .form-inline{
+    padding: 5rem 0;
+}
+
+.contenido-seccion{
+    padding: 5rem 0;
+}
+
+#acerca-de{
+    background: url("../img/Imagen_Follow_2.jpg") center center no-repeat;
+    background-size: cover;
+}
+
+.texto-acerca-de{
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+#footer{
+    background: #222;
+    color: white;
+    font-size: 0.8rem;
+    padding: 2.5rem 0;
+}
+.carrusel{
+    color: wheat;
+}

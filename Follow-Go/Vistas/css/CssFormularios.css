@@ -1,0 +1,28 @@
+.Principal_Vehiculos {
+    border: solid 2px rgba(0, 0, 0, 0.651);
+    width: 500px;
+    position: absolute;
+}
+
+.Principal_Tablas {
+    width: 100%;
+    position: absolute;
+    top: 150px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Baskervville', 'serif';
+}
+
+.col-md-8 {
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    background-color: aliceblue;
+}
+
+.Obligatorio {
+    color: red;
+}
+
